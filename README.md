@@ -1,6 +1,6 @@
 ## Lazy Head Scroller: Head-Motion Scrolling
 
-An innovative Python script for the truly **lazy**\! This allows you to scroll up and down in any document or webpage by simply nodding your head forward or backward, eliminating the need to use your hands for scrolling.
+A simple Python script for the truly **lazy**\! This allows you to scroll up and down in any document or webpage by simply nodding your head forward or backward, eliminating the need to use your hands for scrolling.
 
 It uses computer vision to detect changes in your **face orientation** and translates those movements into mouse scroll events.
 
